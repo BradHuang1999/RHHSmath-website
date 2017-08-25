@@ -1,0 +1,50 @@
+/* CSS for Teachers' Buttons */
+
+.bs-component {
+	position: relative;
+	text-align: center;
+}
+
+.teacher-button {
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 17px;
+	margin: 5px 3px;
+	-webkit-transition-duration: 0.5s;
+	/* Safari */
+	transition-duration: 0.5s;
+	cursor: pointer;
+	border-radius: 5px;
+	border: 2px solid;
+}
+
+.teacher-button:hover {
+	background-color: black;
+}
+
+.button-style1 {
+	background-color: #aa0055;
+}
+
+.button-style2 {
+	background-color: #aa5500;
+}
+
+
+.button-style3 {
+	background-color: #668811;
+}
+
+.button-style4 {
+	background-color: #118866;
+}
+
+.button-style5 {
+	background-color: #0055aa;
+}
+
+.button-style6 {
+	background-color: #5500aa;
+}
